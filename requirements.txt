@@ -1,0 +1,4 @@
+aiohttp
+discord-webhooks
+discord.py
+python-dotenv
