@@ -28,6 +28,9 @@ python client.py 1.1.1.1 1111
 Type into the client to send messages, and keep the server open to keep
 track of messages from both sources. <br>
 
+Sample setup:
+![](sample.png)
+
 ##Notes
 The webhook will send blank embeds with each message. This is something
 from discord's webhook internal workings. It cannot be turned off.<br>
